@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nb/heUZqNJzbM0zl0Uqb4rBkYBYbOk3spoWhgBkpXXblnpa+fVa8TuXeEZqZpDWnfzQ9cpVVGu7m9Afmu8+A5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patthapong\\source\\repos\\Calculate_Number\\Calculate_Number\\Calculate_Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patthapong\\.nuget\\packages\\ironocr\\2022.11.10109\\ironocr.2022.11.10109.nupkg.sha512",
+    "C:\\Users\\Patthapong\\.nuget\\packages\\ironocr.languages.thai\\2020.11.2\\ironocr.languages.thai.2020.11.2.nupkg.sha512",
+    "C:\\Users\\Patthapong\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Patthapong\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Patthapong\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
